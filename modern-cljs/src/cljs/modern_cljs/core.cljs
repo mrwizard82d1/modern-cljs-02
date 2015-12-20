@@ -5,4 +5,4 @@
 (enable-console-print!)
 
 ;; print a friendly greeting to the console
-(println "Hello, Modern ClojureScript World!")
+(println "Hello, New, Modern ClojureScript World!")
